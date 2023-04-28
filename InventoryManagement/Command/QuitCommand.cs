@@ -15,7 +15,7 @@ namespace InventoryManagement.Command
 
         protected override bool InternalCommand()
         {
-            Interface.WriteMessage("Thank you for using FlixOne Inventory Management System");
+            Interface.WriteMessage("Thank you for using Inventory Management System");
 
             return true;
         }
