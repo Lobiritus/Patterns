@@ -1,5 +1,4 @@
 ﻿
-
 using ObserverPattern;
 
 var subject = new Subject();
